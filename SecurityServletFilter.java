@@ -357,3 +357,14 @@ public class SecurityServletFilter implements Filter{
 		return userEntitlementBean;
 	}
 }
+filter mapping changes added
+ <filter>
+            <display-name>SecurityServletFilter</display-name>
+            <filter-name>SecurityServletFilter</filter-name>
+            <filter-class>com.us.chartisinsurance.nuvue.filter.SecurityServletFilter</filter-class>
+        </filter>
+      <filter-mapping>
+            <filter-name>SecurityServletFilter</filter-name>
+            <url-pattern>/*</url-pattern>
+      </filter-mapping>
+	
