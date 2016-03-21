@@ -7,4 +7,6 @@ Sencha unit testing link
 
 https://www.sencha.com/blog/ui-testing-a-sencha-app-3/
 
+Edit and save file javascript library
+https://github.com/eligrey/FileSaver.js
 
