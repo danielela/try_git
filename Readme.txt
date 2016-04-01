@@ -29,5 +29,13 @@ sencha maven build example
 https://github.com/savelee/maven-ant-sencha
 http://www.ladysign-apps.com/developer/advanced-cmd-how-to-integrate-ext-js-with-maven/#.VvqquUaAs94
 
+sencha cmd chiness lang translated doc 
+https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&tl=en&u=http://www.glamenv-septzen.net/view/1291&usg=ALkJrhgWD4mTJVAZcV43uDE3E59Lnc3jAA#id1070d5
+
+Sencha cms compile doc
+http://docs.sencha.com/extjs/4.1.3/#/guide/command_advanced
+http://docs.sencha.com/extjs/4.1.3/#!/guide/command_app_single
+https://www.sencha.com/blog/all-new-sencha-cmd/
+
 
 
