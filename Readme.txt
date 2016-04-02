@@ -38,4 +38,19 @@ http://docs.sencha.com/extjs/4.1.3/#!/guide/command_app_single
 https://www.sencha.com/blog/all-new-sencha-cmd/
 
 
+Step 1: cmd prompt navigate to ext-5.1 root folder (C:\daniel\EXTJs\ext-5.1>)  enter the command 
+C:\daniel\EXTJs\ext-5.1>sencha generate app MyApp demo/my-app/
+MyApp is the application name 
+
+The sencha cmd for 5.1 link 
+http://docs.sencha.com/extjs/5.1/getting_started/welcome_to_extjs.html
+
+before step 2 install ruby and then execute step 2
+step 2: run the sencha server 
+C:\daniel\EXTJs\ext-5.1\demo\my-app>sencha app watch
+or
+C:\daniel\EXTJs\ext-5.1\demo\my-app>sencha -debug app watch > ../debug.log
+
+
+
 
