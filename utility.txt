@@ -8,3 +8,9 @@ http://www.recreation.gov/tourParkDetail.do?contractCode=NRSO&parkId=77811
 
 NJ race map
 http://www.nj.com/news/index.ssf/2015/10/this_map_shows_a_racial_breakdown_of_every_person.html
+
+
+maven parent child build
+http://books.sonatype.com/mvnex-book/reference/multimodule-sect-simple-parent.html
+
+http://books.sonatype.com/mvnex-book/reference/multimodule-sect-building-multimodule.html
