@@ -19,3 +19,19 @@ http://www.zillow.com/homes/for_rent/Iselin-NJ-08830/house,condo,apartment_duple
 
 
 https://cnj.craigslist.org/fuo/5550997733.html
+
+
+Eclipse SWT for log fileviewer app
+
+eclipse SWT
+https://www.eclipse.org/articles/StyledText%201/article1.html
+http://www.java2s.com/Tutorial/Java/0261__2D-Graphics/0480__Full-Screen.htm
+http://www.java2s.com/Tutorial/Java/0280__SWT/TextLayoutusingTextLayoutjustifyalignmentandindent.htm
+http://www.java2s.com/Tutorial/Java/0240__Swing/ChangingtheLookandFeel.htm
+http://www.java2s.com/Tutorial/Java/0240__Swing/AddingMnemonicandAcceleratortoMenuitem.htm
+http://www.java2s.com/Tutorial/Java/0240__Swing/JTreeDisplayingtheFileSystemHierarchyUsingtheCustomTreeModel.htm
+http://www.eclipse.org/articles/article.php?file=Article-Understanding-Layouts/index.html
+https://www.eclipse.org/swt/examples.php
+http://git.eclipse.org/c/platform/eclipse.platform.swt.git/tree/examples/org.eclipse.swt.snippets/src/org/eclipse/swt/snippets/Snippet30.java
+http://git.eclipse.org/c/platform/eclipse.platform.swt.git/tree/examples/org.eclipse.swt.snippets/src/org/eclipse/swt/snippets/Snippet30.java
+http://git.eclipse.org/c/platform/eclipse.platform.swt.git/tree/examples/org.eclipse.swt.snippets/src/org/eclipse/swt/snippets/Snippet256.java
