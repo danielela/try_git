@@ -1,0 +1,26 @@
+simple batch example with hsql
+https://examples.javacodegeeks.com/enterprise-java/spring/spring-batch-jobrepository-example/
+
+spring embidded database
+http://www.mkyong.com/spring/spring-embedded-database-examples/
+source code for above example
+https://github.com/mkyong/spring-embedded-database
+
+
+Spring Batch example
+https://www.javacodegeeks.com/2015/03/spring-batch-tutorial.html#download
+
+mykong spring batch tutorial
+http://www.mkyong.com/tutorials/spring-batch-tutorial/
+
+http://www.mkyong.com/spring-batch/spring-batch-hello-world-example/
+
+example
+https://gist.github.com/omnisis/4516024
+
+
+
+
+stackoverfloww issue
+http://stackoverflow.com/questions/25077549/spring-batch-without-persisting-metadata-to-database
+http://stackoverflow.com/questions/28211334/meta-tables-for-h2-db-in-spring-batch
