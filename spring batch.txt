@@ -24,3 +24,25 @@ https://gist.github.com/omnisis/4516024
 stackoverfloww issue
 http://stackoverflow.com/questions/25077549/spring-batch-without-persisting-metadata-to-database
 http://stackoverflow.com/questions/28211334/meta-tables-for-h2-db-in-spring-batch
+
+
+Database connection to hsql
+<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"
+		lazy-init="true" destroy-method="close">
+		<property name="driverClassName" value="org.hsqldb.jdbcDriver" />
+		<property name="url"
+			value="jdbc:hsqldb:file:src/main/resources/hsqldb/batchcore.db;shutdown=true;" />		
+		<property name="username" value="sa" />
+		<property name="password" value="" />
+
+	</bean>
+
+	<bean id="transactionManager"
+		class="org.springframework.batch.support.transaction.ResourcelessTransactionManager" />
+	
+	<!-- create job-meta tables automatically -->
+	<jdbc:initialize-database data-source="dataSource">
+			<jdbc:script location="org/springframework/batch/core/schema-drop-hsqldb.sql" />
+		<jdbc:script location="org/springframework/batch/core/schema-hsqldb.sql" />
+	</jdbc:initialize-database>
+	
