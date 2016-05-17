@@ -46,3 +46,120 @@ Database connection to hsql
 		<jdbc:script location="org/springframework/batch/core/schema-hsqldb.sql" />
 	</jdbc:initialize-database>
 	
+
+Vodofone Chat
+
+
+Welcome to Vodafone Chat !
+Thank you for your patience, a Vodafone Service Desk Agent is now available.
+Venky
+Good Evening! I am Venky. How may I help you?
+varadarajan:H
+Venky
+
+
+Hello! How may I assist you?
+
+
+varadarajan:I have to know about international roaming charges
+varadarajan:hw do I activate it and how much does it cost?
+varadarajan:Hllo.....
+Venky
+I am glad to help you.
+
+
+
+Venky
+
+Are you inquiring for the same number: 9962493188?
+
+varadarajan:y
+varadarajan:yes
+VenkyThank you for your information.
+VenkyMay I know your current location?
+varadarajan:Chennai
+VenkyThank you. May I Know your International Roaming location?
+varadarajan:USA
+varadarajan:And also Doha - Qatar 
+VenkyThank you for sharing your information.
+varadarajan:I need to make outgoing and receive incomming calls
+VenkySure. You can do it.
+Venky
+Let me check and serve you same. Please be on line.
+varadarajan:This is a pe-paid connection
+varadarajan:pre-paid
+VenkyYes. You are correct.
+VenkyLet you know the International Roaming
+Venky
+Thank you for waiting
+Venky
+
+For the privacy of your account, I need to ask you a few questions, before I proceed. May I know the Last Recharge Amount?
+
+varadarajan:I think 100Rs
+Venky
+Thank you for your Confirmation. That is perfectly matched with our records.
+varadarajan:can u tell me the res
+varadarajan:rates
+VenkySure.
+VenkyThat is my pleasure to serve you.
+varadarajan:i'm still waiting
+Venky
+s I checked for you, I am sorry to say you that, International Roaming service is not yet activated your number. If you wish, I can raise the request for activate that service for you.
+
+For that, you will be charged Rs.149 per month for Rental. Is it Okay for you. Shall I proceed?
+Venky*As
+varadarajan:no wait
+varadarajan:149 only foractivation?
+varadarajan: for activation?
+VenkyYes. You are correct. Then only you will get signal there.
+varadarajan:and what are the calling charges?
+VenkySure. I can do it.
+Venky
+Thank you for waiting
+VenkyLet you know the call charge details.
+varadarajan:yes
+VenkyOutgoing Local: Rs.70/min
+Outgoing International:140/min
+
+Incoming Call :70/min
+
+Outgoing SMS :15(per 160 character)
+
+data:5.5 kb(10kb)
+Venky
+I do apologize to you for delay reply as well as If I mistaken you.
+
+
+
+VenkyPlease forgive me.
+varadarajan:thats ok
+VenkyThank you Sir.
+VenkyI am waiting for serve you more. For that, Is there anything else that I can help you with?
+varadarajan:can u clarify on Data Charges?
+VenkySure.
+VenkyI do apologize to you for that.
+VenkyYou will be charged Rs.5.50 paise (per 10 kb)
+varadarajan:ok got it
+varadarajan:thank u
+Venky
+You are most welcome. That is my pleasure to help you. I am here to serve you always.
+Venky
+
+Sir, Is there anything else that I can help you with?
+
+varadarajan:no thank u
+Venky
+
+Thank you for contacting Vodafone Web-Chat. Have a wonderful day!
+
+Venky
+I request Kindly Click End the chat from your End.
+VenkyPlease forgive me If I mistaken you as well as delay reply.
+Venky
+Still I am waiting for help you. But,You seem to be unavailable right now, request you to please connect with us at your convenience. Thank you!
+
+And I am an Unfortunate person for closing the chat.
+The Vodafone Service Desk Agent has left.
+  
+Your Chat session has ended. Click OK to continue.
