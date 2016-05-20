@@ -18,7 +18,9 @@ http://www.mkyong.com/spring-batch/spring-batch-hello-world-example/
 example
 https://gist.github.com/omnisis/4516024
 
-
+forum questions
+http://forum.spring.io/forum/spring-projects/batch/126479-storedprocedureitemreader-error-invalid-column-index
+http://forum.spring.io/forum/spring-projects/batch/128508-using-refcursor-on-storedprocedureitemreader
 
 
 stackoverfloww issue
