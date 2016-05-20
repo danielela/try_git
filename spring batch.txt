@@ -23,6 +23,9 @@ http://forum.spring.io/forum/spring-projects/batch/126479-storedprocedureitemrea
 http://forum.spring.io/forum/spring-projects/batch/128508-using-refcursor-on-storedprocedureitemreader
 
 
+EmailSender ItemWriter
+https://dzone.com/refcardz/spring-batch-refcard
+
 stackoverfloww issue
 http://stackoverflow.com/questions/25077549/spring-batch-without-persisting-metadata-to-database
 http://stackoverflow.com/questions/28211334/meta-tables-for-h2-db-in-spring-batch
