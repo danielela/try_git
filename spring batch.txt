@@ -18,6 +18,9 @@ http://www.mkyong.com/spring-batch/spring-batch-hello-world-example/
 example
 https://gist.github.com/omnisis/4516024
 
+MimeMessageMailSenderIterWriter
+http://grepcode.com/file/repo1.maven.org/maven2/org.springframework.batch/spring-batch-infrastructure/2.1.9.RELEASE/org/springframework/batch/item/mail/javamail/MimeMessageItemWriter.java
+
 forum questions
 http://forum.spring.io/forum/spring-projects/batch/126479-storedprocedureitemreader-error-invalid-column-index
 http://forum.spring.io/forum/spring-projects/batch/128508-using-refcursor-on-storedprocedureitemreader
