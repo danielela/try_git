@@ -1,0 +1,39 @@
+benefits
+
+Single UI development framework with all the necessary tools for development and deployment under one umbrella from Sencha.
+ExtJS is Object Oriented Components framework which make it easy to create reusable components and use across modules and applications.
+Complete and Robust
+Wide library of components and plugins
+Easy Development, debugging and Maintenance
+Good Code Readability
+In-house JSUnit testing framework which is easy to integrate with build.
+ Better documents and Samples
+
+
+Business case
+Build a RUI Portal  which will replace the Mainframe EMT system
+        1. List the outstanding voluntary corporate action events of all of JP               Morgan clients’ SWAP positions.
+        2. Create new Events, add new options, allow users to submit Preferences
+        3. Show Total Qty, Traded Qty, unbalanced Qty for each of the accounts.
+        4. Generate reports and email for approved events.
+        5. Let user to export as excel all the events and preferemces .
+Implement best in class JavaScript unit testing and automate the ExtJS Sencha CMD build with Maven.
+Adhere to the JPM codding standards S3 static scan with score  < 0.004, Sonar Qube  report(no blocker and critical issues), Black DECK etc
+Deliver solutions  using emerging UI  and Java technologies  which complies to the JPM list of approved technology stack.
+Create reusable UI and Java components  which can be used across applications
+
+Highlites
+Built as a robust SPA using ExtJS 4, Spring and REST services 
+Created custom reusable ExtJS UI excel export plugin component which can be used by other ExtJS applications.
+Implemented Jasmin JavaScript unit testing and JSHint JavaScript code checking tool
+Implemented Sencha CMD build and automated the build process as part of the maven build.
+Improved the performance of the application by offloading the page load data by differing some data based on business use.
+Built as Test driven development environment by using Mockito, JUnit and integrated to Jenkins build.
+
+Business Benefits
+SPA simplifies the web navigation and provides a single dashboard application for user to perform all the functions, create event, Submit preferences , approve, reject and close.
+The rich grids provides filtering, excel export, inline edit of account to submit preferences which is quick and responsive.
+Customization of look and feel using central theme and inline with JPMM.
+RIA portal framework with fast rendering and easy navigations.
+
+
