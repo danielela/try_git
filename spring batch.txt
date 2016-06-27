@@ -29,6 +29,10 @@ http://forum.spring.io/forum/spring-projects/batch/128508-using-refcursor-on-sto
 EmailSender ItemWriter
 https://dzone.com/refcardz/spring-batch-refcard
 
+
+http://howtodoinjava.com/spring/spring-restful/spring-rest-hello-world-xml-example/
+
+
 stackoverfloww issue
 http://stackoverflow.com/questions/25077549/spring-batch-without-persisting-metadata-to-database
 http://stackoverflow.com/questions/28211334/meta-tables-for-h2-db-in-spring-batch
