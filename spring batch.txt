@@ -7,6 +7,18 @@ source code for above example
 https://github.com/mkyong/spring-embedded-database
 
 
+
+Highlights
+Service Oriented Front End Architecture (SOFEA) are best suitable for Single Page Application (SPA)
+The RESTfull model is natural fit for SOEFA systems.
+EXTJS widgets and components comes with best UI Design Patterns. All compatible with all kinds of Modern and classical browsers.
+The ExtJS components and widgets are compatible with all modern and Classic browsers. Cross browser issues are already taken care  by the Framework.
+ExtJS has its own post development build tool to prepare the UI code for PRODUCTION.
+ExtJS has its own UI testing tool which makes it easy to build test scripts and integrate test driven development.
+ExtJS provides widgets which will be compatible if the application will have to ported to different display devices.
+Consistency in delivery performance in Build engagements across all workstreams driven by strong technical & functional knowledge
+
+
 Spring Batch example
 https://www.javacodegeeks.com/2015/03/spring-batch-tutorial.html#download
 
