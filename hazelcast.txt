@@ -1,0 +1,4 @@
+step-by-step spring hazelcast demo
+https://www.javacodegeeks.com/2012/12/hazelcast-distributed-execution-with-spring.html
+
+https://dzone.com/articles/configuring-hazelcast-within
