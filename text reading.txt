@@ -1,0 +1,8 @@
+https://uima.apache.org/d/uimaj-current/overview_and_setup.html
+
+UIMA Tutorial and Developers' Guides
+https://uima.apache.org/d/uimaj-current/tutorials_and_users_guides.html
+
+http://www.slideshare.net/teofili/apache-uima-introduction
+http://uima-framework.sourceforge.net/
+https://colorlib.com/wp/angularjs-website-templates/
