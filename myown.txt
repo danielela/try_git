@@ -11,5 +11,12 @@ https://education.lego.com/en-us/elementary/explore/stem
 
 https://coderanch.com/t/649258/certification/Passed-OCAJP
 
+Machine Learning Interview Question
 
+https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/
 
+https://resources.workable.com/machine-learning-engineer-interview-questions
+
+https://www.quora.com/What-are-some-common-Machine-Learning-interview-questions
+
+http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html
