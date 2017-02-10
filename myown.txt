@@ -24,3 +24,5 @@ http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html
 Octave documents tutorial
 https://www.gnu.org/software/octave/doc/interpreter/Simple-Examples.html#Simple-Examples
 
+Linear equation
+http://www.math.com/school/subject2/lessons/S2U4L3DP.html
