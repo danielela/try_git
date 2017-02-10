@@ -26,3 +26,6 @@ https://www.gnu.org/software/octave/doc/interpreter/Simple-Examples.html#Simple-
 
 Linear equation
 http://www.math.com/school/subject2/lessons/S2U4L3DP.html
+
+how to find the y intercept
+http://www.virtualnerd.com/algebra-1/linear-equation-analysis/intercept/intercept-examples/y-intercept-definition
