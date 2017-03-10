@@ -35,3 +35,9 @@ https://www.eclipse.org/swt/examples.php
 http://git.eclipse.org/c/platform/eclipse.platform.swt.git/tree/examples/org.eclipse.swt.snippets/src/org/eclipse/swt/snippets/Snippet30.java
 http://git.eclipse.org/c/platform/eclipse.platform.swt.git/tree/examples/org.eclipse.swt.snippets/src/org/eclipse/swt/snippets/Snippet30.java
 http://git.eclipse.org/c/platform/eclipse.platform.swt.git/tree/examples/org.eclipse.swt.snippets/src/org/eclipse/swt/snippets/Snippet256.java
+
+
+I’m much honored to be working for Tata Consultancy Services and have learned much in the short time that I have spent here. However, it is with much sadness I inform you that this is my formal resignation from my job. My last day of employment will be April 7, 2017.
+This decision has not been easy, but I have decided that it will be in the best interest for my career advancement and future development. I am available to assist in the smooth transition for the Client.
+Once again I would like to thank you for many opportunities that you and the company have given me. 
+
