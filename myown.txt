@@ -120,3 +120,6 @@ Chepauk, Chennai - 600005
 Phone : 2539 9422
 
 
+C++, Python, PyGTK, Django, matlab, Bash, Gazebo simulator, BD/Google proprietary robotics software. Test stand development.
+
+
