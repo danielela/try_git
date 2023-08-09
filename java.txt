@@ -1,0 +1,28 @@
+Class, file name and main method
+Primitive data type
+Type casting
+Ternary Operator
+Method overloading
+Constructor (overloaded constructor) and object creation (static)
+Static variables 
+Local and Global variable (instance variables, this)
+Scanner input – Exception for scanner
+Wrapper class
+
+Access Modifier for classes, instance variables and methods (public, protected, default, private)
+Packages
+Access specifiers (static, final, abstract)
+Overloading and Overriding 
+Abstract and interface
+Arrays, Collections, Generics (AutoBoxing, UnBoxing), Streams
+Enum
+Comparable vs Comparator
+Generics methods, wildcards, and type erasure
+Exception Handling 
+File I/O
+JDBC
+
+
+
+
+
