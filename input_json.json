@@ -1,0 +1,1116 @@
+[
+  {
+    "transactionInfo": [
+      "ADDRESS_ADD"
+    ],
+    "effectiveDate": "2023-06-26",
+    "bundle": {
+      "identifier": [],
+      "entry": [
+        {
+          "Location": {
+            "accessibility": [],
+            "address": {
+              "line": [
+                "220 UNION HILL RD"
+              ],
+              "city": "ENGLISHTOWN",
+              "postalCode": "07726",
+              "uhgCityAlias": [],
+              "uhgUseType": {
+                "coding": [],
+                "text": "Practice"
+              },
+              "uhgRank": "2",
+              "state": "NJ"
+            },
+            "alias": [],
+            "contained": [],
+            "identifier": [],
+            "telecom": [
+              {
+                "system": "PHONE",
+                "value": "7324319930",
+                "availableTime": []
+              },
+              {
+                "system": "FAX",
+                "value": "3342862397",
+                "availableTime": []
+              }
+            ],
+            "type": [],
+            "id": "1",
+            "endpoint": [],
+            "communication": [],
+            "hoursOfOperation": [],
+            "newPatients": []
+          },
+          "Organization": {
+            "endpoint": [],
+            "telecom": [],
+            "address": [],
+            "contained": [],
+            "type": [],
+            "identifier": [
+              {
+                "type": {
+                  "coding": [],
+                  "text": "NPI"
+                },
+                "value": "1033534524",
+                "uhgCharacteristic": []
+              }
+            ],
+            "alias": [],
+            "contact": [],
+            "qualification": []
+          },
+          "OrganizationAffiliation": {
+            "code": [],
+            "contained": [],
+            "endpoint": [],
+            "healthcareService": [],
+            "location": [],
+            "network": [],
+            "telecom": [
+              {
+                "system": "URL",
+                "value": "www.uhchealthcare.com",
+                "uhgUseType": {
+                  "coding": [],
+                  "text": "T"
+                },
+                "availableTime": []
+              }
+            ],
+            "identifier": [
+              {
+                "type": {
+                  "coding": [],
+                  "text": "CLIA"
+                },
+                "value": "1234567",
+                "uhgCharacteristic": []
+              }
+            ],
+            "communication": [
+              {
+                "uhgMode": "Written",
+                "coding": [
+                  {
+                    "system": "Language",
+                    "code": "SANSKRIT"
+                  }
+                ]
+              }
+            ],
+            "contact": [
+              {
+                "name": {
+                  "text": "Indus healthcare",
+                  "prefix": [],
+                  "suffix": [],
+                  "given": []
+                },
+                "uhgRole": {
+                  "coding": [],
+                  "text": "ADMINISTRATOR/ROSTER CONTACT"
+                },
+                "telecom": [
+                  {
+                    "system": "PHONE",
+                    "value": "9876543210",
+                    "availableTime": []
+                  },
+                  {
+                    "system": "EMAIL",
+                    "value": "iamvalid@uhc.com",
+                    "availableTime": []
+                  }
+                ]
+              }
+            ],
+            "newPatients": [],
+            "qualification": [],
+            "specialty": []
+          },
+          "Practitioner": {
+            "address": [],
+            "birthDate": "1967-02-03",
+            "contained": [],
+            "gender": "M",
+            "identifier": [
+              {
+                "type": {
+                  "coding": [],
+                  "text": "NPI"
+                },
+                "value": "1780610253",
+                "uhgCharacteristic": []
+              },
+              {
+                "type": {
+                  "coding": [],
+                  "text": "Medicaid"
+                },
+                "value": "78945652",
+                "assigner": {
+                  "Organization.identifier.type": {
+                    "coding": [],
+                    "text": "State"
+                  },
+                  "Organization.name": "AB"
+                },
+                "uhgCharacteristic": []
+              }
+            ],
+            "name": [
+              {
+                "period": {
+                  "uhgActive": "true"
+                },
+                "prefix": [],
+                "suffix": [],
+                "family": "ABT",
+                "given": [
+                  "JENNIFER",
+                  "R"
+                ]
+              }
+            ],
+            "photo": [],
+            "telecom": [],
+            "communication": [
+              {
+                "uhgMode": "Spoken",
+                "coding": [
+                  {
+                    "system": "Language",
+                    "code": "SANSKRIT"
+                  }
+                ]
+              },
+              {
+                "uhgMode": "Written",
+                "coding": [
+                  {
+                    "system": "Language",
+                    "code": "SANSKRIT"
+                  }
+                ]
+              }
+            ],
+            "qualification": [
+              {
+                "identifier": [],
+                "primaryInd": "true",
+                "code": {
+                  "coding": [],
+                  "text": "DO"
+                },
+                "whereValid": [],
+                "type": "Degree"
+              },
+              {
+                "identifier": [],
+                "whereValid": []
+              },
+              {
+                "identifier": [],
+                "period": {},
+                "whereValid": []
+              }
+            ],
+            "replacementProvider": []
+          },
+          "PractitionerRole": {
+            "uhgDoingBusinessAsName": "GROUP LOCATION NAME",
+            "uhgAddress": [
+              {
+                "line": [
+                  "219 UNION HILL RD"
+                ],
+                "city": "ENGLISHTOWN",
+                "postalCode": "07726",
+                "uhgCityAlias": [],
+                "use": "Billing",
+                "state": "NJ"
+              },
+              {
+                "line": [
+                  "219 Union hill rd"
+                ],
+                "city": "MANALAPAN",
+                "postalCode": "07726",
+                "uhgCityAlias": [],
+                "use": "RawBillingAddress",
+                "state": "NJ"
+              },
+              {
+                "line": [
+                  "220 Union hill rd"
+                ],
+                "city": "MANALAPAN",
+                "postalCode": "07726",
+                "uhgCityAlias": [],
+                "use": "RawPracticeAddress",
+                "state": "NJ"
+              }
+            ],
+            "uhgPatientPopulationServed": [
+              {
+                "coding": [],
+                "text": "UHC"
+              },
+              {
+                "coding": [],
+                "text": "Oxford"
+              },
+              {
+                "coding": [],
+                "text": "Medicare"
+              },
+              {
+                "coding": [],
+                "text": "Medicaid"
+              },
+              {
+                "coding": [],
+                "text": "VA CCN"
+              },
+              {
+                "coding": [],
+                "text": "ECP"
+              }
+            ],
+            "healthcareService": [],
+            "contained": [],
+            "endpoint": [],
+            "location": [],
+            "code": [
+              {
+                "coding": [
+                  {
+                    "system": "Role",
+                    "code": "PCP"
+                  }
+                ]
+              }
+            ],
+            "identifier": [
+              {
+                "type": {
+                  "coding": [],
+                  "text": "TAX"
+                },
+                "value": "941156581",
+                "uhgCharacteristic": [
+                  {
+                    "name": "Owner",
+                    "valueString": "DEF LEGAL OWNER LLC"
+                  }
+                ]
+              },
+              {
+                "type": {
+                  "coding": [],
+                  "text": "TAXID"
+                },
+                "uhgCharacteristic": [
+                  {
+                    "name": "Incorporation",
+                    "valueString": "CHTD"
+                  }
+                ]
+              },
+              {
+                "type": {
+                  "coding": [],
+                  "text": "Medicare"
+                },
+                "value": "AB56987455",
+                "uhgCharacteristic": []
+              }
+            ],
+            "telecom": [
+              {
+                "system": "EMAIL",
+                "value": "abcd@gmail.com",
+                "uhgUseType": {
+                  "coding": [],
+                  "text": "Public"
+                },
+                "availableTime": []
+              },
+              {
+                "system": "PHONE",
+                "value": "7324319930",
+                "use": "Billing",
+                "availableTime": []
+              },
+              {
+                "system": "FAX",
+                "value": "3342862397",
+                "use": "Billing",
+                "availableTime": []
+              }
+            ],
+            "availableTime": [
+              {
+                "daysOfWeek": [
+                  "MON"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              },
+              {
+                "daysOfWeek": [
+                  "TUE"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              },
+              {
+                "daysOfWeek": [
+                  "WED"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              },
+              {
+                "daysOfWeek": [
+                  "THU"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              },
+              {
+                "daysOfWeek": [
+                  "FRI"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              },
+              {
+                "daysOfWeek": [
+                  "SAT"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              },
+              {
+                "daysOfWeek": [
+                  "SUN"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              }
+            ],
+            "newPatients": [
+              {
+                "acceptingPatients": {
+                  "coding": [],
+                  "text": "O"
+                },
+                "characteristics": [],
+                "fromNetwork": {
+                  "display": "UnitedHealthcare"
+                }
+              },
+              {
+                "acceptingPatients": {
+                  "coding": [],
+                  "text": "O"
+                },
+                "characteristics": [],
+                "fromNetwork": {
+                  "display": "Oxford"
+                }
+              },
+              {
+                "acceptingPatients": {
+                  "coding": [],
+                  "text": "O"
+                },
+                "characteristics": [],
+                "fromNetwork": {
+                  "display": "Medicare"
+                }
+              },
+              {
+                "acceptingPatients": {
+                  "coding": [],
+                  "text": "O"
+                },
+                "characteristics": [],
+                "fromNetwork": {
+                  "display": "Medicaid"
+                }
+              },
+              {
+                "acceptingPatients": {
+                  "coding": [],
+                  "text": "Yes"
+                },
+                "characteristics": []
+              },
+              {
+                "characteristics": [
+                  {
+                    "name": "Gender Restriction",
+                    "valueString": "M"
+                  },
+                  {
+                    "name": "Lower Age Limit",
+                    "valueString": "18"
+                  },
+                  {
+                    "name": "Upper Age Limit",
+                    "valueString": "65"
+                  }
+                ]
+              },
+              {
+                "characteristics": [],
+                "capacity": 22.0
+              }
+            ],
+            "notAvailable": [],
+            "qualification": [],
+            "specialty": [
+              {
+                "primaryInd": "true",
+                "specialty": {
+                  "coding": [],
+                  "text": "Internal Medicine"
+                },
+                "uhgSpecialtyBoardCertified": [],
+                "uhgProviderAreaOfExpertise": [
+                  {
+                    "coding": [],
+                    "text": "ACC"
+                  }
+                ],
+                "period": {}
+              },
+              {
+                "primaryInd": "false",
+                "specialty": {
+                  "coding": [],
+                  "text": "Nurse Practitioner"
+                },
+                "uhgSpecialtyBoardCertified": [],
+                "uhgProviderAreaOfExpertise": [
+                  {
+                    "coding": [],
+                    "text": "ACC"
+                  }
+                ],
+                "period": {}
+              }
+            ],
+            "credentialingDate": [
+              "2017-08-14",
+              "2023-06-26"
+            ],
+            "publishLocation": [
+              {
+                "location": "1",
+                "publish": "true"
+              }
+            ],
+            "telehealth": [
+              {
+                "type": "V",
+                "scheduling": "S",
+                "availability": "N"
+              }
+            ],
+            "supervisorSpecialty": [
+              "Anesthesia Assistant"
+            ],
+            "scopeOfPractice": [],
+            "coveringAffiliation": []
+          }
+        }
+      ]
+    },
+    "header": {
+      "sourceId": "PPM-NRMM",
+     
+    
+      "plmiCode": "CA081",
+     
+      "plmiId": "3",
+      "submissionType": "UI_FILE_UPLOAD",
+      "groupName": "CA081_3 - PALO ALTO MEDICAL FOUNDATION",
+     
+      "eventCreatedDate": "2024-01-22T14:58:10.21394856Z",
+     
+      "rowIndex": 3,
+     
+      "delegateStatus": "delegated",
+      "uhcNotifyDate": "2024-01-22",
+    
+      "status": "Message consumed successfully"
+    }
+  },
+  {
+    "transactionInfo": [
+      "ADDRESS_ADD"
+    ],
+    "effectiveDate": "2023-06-26",
+    "bundle": {
+      "identifier": [],
+      "entry": [
+        {
+          "Location": {
+            "accessibility": [],
+            "address": {
+              "line": [
+                "219 UNION HILL RD"
+              ],
+              "city": "ENGLISHTOWN",
+              "postalCode": "07726",
+              "uhgCityAlias": [],
+              "uhgUseType": {
+                "coding": [],
+                "text": "Billing \u0026 Practice"
+              },
+              "uhgRank": "1",
+              "state": "NJ"
+            },
+            "alias": [],
+            "contained": [],
+            "identifier": [],
+            "telecom": [
+              {
+                "system": "PHONE",
+                "value": "7324319930",
+                "availableTime": []
+              },
+              {
+                "system": "FAX",
+                "value": "3342862397",
+                "availableTime": []
+              }
+            ],
+            "type": [],
+            "id": "1",
+            "endpoint": [],
+            "communication": [],
+            "hoursOfOperation": [],
+            "newPatients": []
+          },
+          "Organization": {
+            "endpoint": [],
+            "telecom": [],
+            "address": [],
+            "contained": [],
+            "type": [],
+            "identifier": [
+              {
+                "type": {
+                  "coding": [],
+                  "text": "NPI"
+                },
+                "value": "1033534524",
+                "uhgCharacteristic": []
+              }
+            ],
+            "alias": [],
+            "contact": [],
+            "qualification": []
+          },
+          "OrganizationAffiliation": {
+            "code": [],
+            "contained": [],
+            "endpoint": [],
+            "healthcareService": [],
+            "location": [],
+            "network": [],
+            "telecom": [
+              {
+                "system": "URL",
+                "value": "www.uhchealthcare.com",
+                "uhgUseType": {
+                  "coding": [],
+                  "text": "T"
+                },
+                "availableTime": []
+              }
+            ],
+            "identifier": [
+              {
+                "type": {
+                  "coding": [],
+                  "text": "CLIA"
+                },
+                "value": "1234567",
+                "uhgCharacteristic": []
+              }
+            ],
+            "communication": [
+              {
+                "uhgMode": "Written",
+                "coding": [
+                  {
+                    "system": "Language",
+                    "code": "SANSKRIT"
+                  }
+                ]
+              }
+            ],
+            "contact": [
+              {
+                "name": {
+                  "text": "Indus healthcare",
+                  "prefix": [],
+                  "suffix": [],
+                  "given": []
+                },
+                "uhgRole": {
+                  "coding": [],
+                  "text": "ADMINISTRATOR/ROSTER CONTACT"
+                },
+                "telecom": [
+                  {
+                    "system": "PHONE",
+                    "value": "9876543210",
+                    "availableTime": []
+                  },
+                  {
+                    "system": "EMAIL",
+                    "value": "iamvalid@uhc.com",
+                    "availableTime": []
+                  }
+                ]
+              }
+            ],
+            "newPatients": [],
+            "qualification": [],
+            "specialty": []
+          },
+          "Practitioner": {
+            "address": [],
+            "birthDate": "1967-02-03",
+            "contained": [],
+            "gender": "M",
+            "identifier": [
+              {
+                "type": {
+                  "coding": [],
+                  "text": "NPI"
+                },
+                "value": "1780610253",
+                "uhgCharacteristic": []
+              },
+              {
+                "type": {
+                  "coding": [],
+                  "text": "Medicaid"
+                },
+                "value": "78945652",
+                "assigner": {
+                  "Organization.identifier.type": {
+                    "coding": [],
+                    "text": "State"
+                  },
+                  "Organization.name": "AB"
+                },
+                "uhgCharacteristic": []
+              }
+            ],
+            "name": [
+              {
+                "period": {
+                  "uhgActive": "true"
+                },
+                "prefix": [],
+                "suffix": [],
+                "family": "ABT",
+                "given": [
+                  "JENNIFER",
+                  "R"
+                ]
+              }
+            ],
+            "photo": [],
+            "telecom": [],
+            "communication": [
+              {
+                "uhgMode": "Spoken",
+                "coding": [
+                  {
+                    "system": "Language",
+                    "code": "SANSKRIT"
+                  }
+                ]
+              },
+              {
+                "uhgMode": "Written",
+                "coding": [
+                  {
+                    "system": "Language",
+                    "code": "SANSKRIT"
+                  }
+                ]
+              }
+            ],
+            "qualification": [
+              {
+                "identifier": [],
+                "primaryInd": "true",
+                "code": {
+                  "coding": [],
+                  "text": "DO"
+                },
+                "whereValid": [],
+                "type": "Degree"
+              },
+              {
+                "identifier": [],
+                "whereValid": []
+              },
+              {
+                "identifier": [],
+                "period": {},
+                "whereValid": []
+              }
+            ],
+            "replacementProvider": []
+          },
+          "PractitionerRole": {
+            "uhgDoingBusinessAsName": "GROUP LOCATION NAME",
+            "uhgAddress": [
+              {
+                "line": [
+                  "219 UNION HILL RD"
+                ],
+                "city": "ENGLISHTOWN",
+                "postalCode": "07726",
+                "uhgCityAlias": [],
+                "use": "Billing",
+                "state": "NJ"
+              },
+              {
+                "line": [
+                  "219 Union hill rd"
+                ],
+                "city": "MANALAPAN",
+                "postalCode": "07726",
+                "uhgCityAlias": [],
+                "use": "RawBillingAddress",
+                "state": "NJ"
+              },
+              {
+                "line": [
+                  "219 Union hill rd"
+                ],
+                "city": "MANALAPAN",
+                "postalCode": "07726",
+                "uhgCityAlias": [],
+                "use": "RawPracticeAddress",
+                "state": "NJ"
+              }
+            ],
+            "uhgPatientPopulationServed": [
+              {
+                "coding": [],
+                "text": "UHC"
+              },
+              {
+                "coding": [],
+                "text": "Oxford"
+              },
+              {
+                "coding": [],
+                "text": "Medicare"
+              },
+              {
+                "coding": [],
+                "text": "Medicaid"
+              },
+              {
+                "coding": [],
+                "text": "VA CCN"
+              },
+              {
+                "coding": [],
+                "text": "ECP"
+              }
+            ],
+            "healthcareService": [],
+            "contained": [],
+            "endpoint": [],
+            "location": [],
+            "code": [
+              {
+                "coding": [
+                  {
+                    "system": "Role",
+                    "code": "PCP"
+                  }
+                ]
+              }
+            ],
+            "identifier": [
+              {
+                "type": {
+                  "coding": [],
+                  "text": "TAX"
+                },
+                "value": "941156581",
+                "uhgCharacteristic": [
+                  {
+                    "name": "Owner",
+                    "valueString": "DEF LEGAL OWNER LLC"
+                  }
+                ]
+              },
+              {
+                "type": {
+                  "coding": [],
+                  "text": "TAXID"
+                },
+                "uhgCharacteristic": [
+                  {
+                    "name": "Incorporation",
+                    "valueString": "CHTD"
+                  }
+                ]
+              },
+              {
+                "type": {
+                  "coding": [],
+                  "text": "Medicare"
+                },
+                "value": "AB56987455",
+                "uhgCharacteristic": []
+              }
+            ],
+            "telecom": [
+              {
+                "system": "EMAIL",
+                "value": "abcd@gmail.com",
+                "uhgUseType": {
+                  "coding": [],
+                  "text": "Public"
+                },
+                "availableTime": []
+              },
+              {
+                "system": "PHONE",
+                "value": "7324319930",
+                "use": "Billing",
+                "availableTime": []
+              },
+              {
+                "system": "FAX",
+                "value": "3342862397",
+                "use": "Billing",
+                "availableTime": []
+              }
+            ],
+            "availableTime": [
+              {
+                "daysOfWeek": [
+                  "MON"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              },
+              {
+                "daysOfWeek": [
+                  "TUE"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              },
+              {
+                "daysOfWeek": [
+                  "WED"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              },
+              {
+                "daysOfWeek": [
+                  "THU"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              },
+              {
+                "daysOfWeek": [
+                  "FRI"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              },
+              {
+                "daysOfWeek": [
+                  "SAT"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              },
+              {
+                "daysOfWeek": [
+                  "SUN"
+                ],
+                "availableEndTime": "05:30P",
+                "availableStartTime": "08:30A"
+              }
+            ],
+            "newPatients": [
+              {
+                "acceptingPatients": {
+                  "coding": [],
+                  "text": "O"
+                },
+                "characteristics": [],
+                "fromNetwork": {
+                  "display": "UnitedHealthcare"
+                }
+              },
+              {
+                "acceptingPatients": {
+                  "coding": [],
+                  "text": "O"
+                },
+                "characteristics": [],
+                "fromNetwork": {
+                  "display": "Oxford"
+                }
+              },
+              {
+                "acceptingPatients": {
+                  "coding": [],
+                  "text": "O"
+                },
+                "characteristics": [],
+                "fromNetwork": {
+                  "display": "Medicare"
+                }
+              },
+              {
+                "acceptingPatients": {
+                  "coding": [],
+                  "text": "O"
+                },
+                "characteristics": [],
+                "fromNetwork": {
+                  "display": "Medicaid"
+                }
+              },
+              {
+                "acceptingPatients": {
+                  "coding": [],
+                  "text": "Yes"
+                },
+                "characteristics": []
+              },
+              {
+                "characteristics": [
+                  {
+                    "name": "Gender Restriction",
+                    "valueString": "M"
+                  },
+                  {
+                    "name": "Lower Age Limit",
+                    "valueString": "18"
+                  },
+                  {
+                    "name": "Upper Age Limit",
+                    "valueString": "65"
+                  }
+                ]
+              },
+              {
+                "characteristics": [],
+                "capacity": 22.0
+              }
+            ],
+            "notAvailable": [],
+            "qualification": [],
+            "specialty": [
+              {
+                "primaryInd": "true",
+                "specialty": {
+                  "coding": [],
+                  "text": "Internal Medicine"
+                },
+                "uhgSpecialtyBoardCertified": [],
+                "uhgProviderAreaOfExpertise": [
+                  {
+                    "coding": [],
+                    "text": "ACC"
+                  }
+                ],
+                "period": {}
+              },
+              {
+                "primaryInd": "false",
+                "specialty": {
+                  "coding": [],
+                  "text": "Nurse Practitioner"
+                },
+                "uhgSpecialtyBoardCertified": [],
+                "uhgProviderAreaOfExpertise": [
+                  {
+                    "coding": [],
+                    "text": "ACC"
+                  }
+                ],
+                "period": {}
+              }
+            ],
+            "credentialingDate": [
+              "2017-08-14",
+              "2023-06-26"
+            ],
+            "publishLocation": [
+              {
+                "location": "1",
+                "publish": "true"
+              }
+            ],
+            "telehealth": [
+              {
+                "type": "V",
+                "scheduling": "S",
+                "availability": "N"
+              }
+            ],
+            "supervisorSpecialty": [
+              "Anesthesia Assistant"
+            ],
+            "scopeOfPractice": [],
+            "coveringAffiliation": []
+          }
+        }
+      ]
+    },
+    "header": {
+      "sourceId": "PPM-NRMM",
+     
+     
+     
+      "sessionId": "",
+      "plmiId": "3",
+      "submissionType": "UI_FILE_UPLOAD",
+      
+     
+      "eventCreatedDate": "2024-01-22T14:58:10.21394856Z",
+      "correlationId": "",
+      "rowIndex": 4,
+      "submitterName": "",
+      "delegateStatus": "",
+      "uhcNotifyDate": "2024-01-22",
+      "submitterEmail": "",
+      "status": "Message consumed successfully"
+    }
+  }
+]
